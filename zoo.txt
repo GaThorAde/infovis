@@ -1,1 +1,12 @@
 Choropleth Map
+Stem-and-Leaf Plots
+Parallel Coordinates
+Graduated Symbol Maps
+Cartograms
+Radial node-link diagram
+Cartesian node-link diagram
+Adjacency Diagrams
+Sunburst layout
+Enclosure Diagrams
+Force-directed layout
+Arc diagram
